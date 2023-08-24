@@ -7,6 +7,8 @@
 ## General info
 This is a calendar with the option to add notes on individual days.
 
+![Kalendarz1](https://github.com/Kakol155/Calendar/assets/111421926/63444891-1423-4898-bb1a-b4d42f6b6a76)
+
 
 ## Technologies
 - C
