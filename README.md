@@ -10,7 +10,8 @@ This is a calendar with the option to add notes on individual days.
 
 ## Screenshots
 
-Menu: ![Calendar1](https://github.com/Kakol155/Calendar/assets/111421926/4f9146f7-0960-4209-afe5-3fc2d50509ec)
+- Menu:
+![Calendar1](https://github.com/Kakol155/Calendar/assets/111421926/4f9146f7-0960-4209-afe5-3fc2d50509ec)
 
 Adding note: ![Calendar2](https://github.com/Kakol155/Calendar/assets/111421926/63cd973a-90ac-425c-b03f-98eab865236e)
 
