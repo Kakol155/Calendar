@@ -8,7 +8,11 @@
 This is a calendar with the option to add notes on individual days.
 
 ## Technologies
-- C
+* C
+* Include stdio.h
+* Include stdlib.h
+* Include io.h
+* Include time.h 
 
 ## Project Status
 - Ready
